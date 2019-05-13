@@ -1,0 +1,22 @@
+body{
+    background-image: url("images/kim-carpenter-307030-unsplash.jpg");
+    
+}
+
+
+h4{
+    font-family: fantasy
+
+}
+    
+
+
+.jumbotron{
+    left: 300px;
+    position: relative;
+    height: 500px;
+    width: 500px;
+    border-bottom: 200px
+    
+       
+}

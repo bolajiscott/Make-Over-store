@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+    background-image: url("images/kim-carpenter-307030-unsplash.jpg");
+    background-size:1500px 1500px;
+    background-repeat: no-repeat;
+    
+    
+}
+
+
+li{
+    
+    display:inline;
+    margin-left: 20px
+    float: right;
+    
+    
+    
+    
+}
+ul a{
+    text-decoration: none;
+    color: #666;
+}
+ul a:hover{
+    text-decoration: underline;
+    font-size: 30px
+    
+}
+
+
